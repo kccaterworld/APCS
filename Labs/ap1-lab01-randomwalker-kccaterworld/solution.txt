@@ -1,0 +1,6 @@
+Write at least one paragrath explaining your solution in the file solution.txt. Please be clear.
+
+I would create a random number, and take the value (0-.25, .25-.5, .5-.75,.75-0)
+to choose a direction to move in. Then it would print the new direction. This would
+repeat n times, and after that takes the current position and finds the distance
+from the origin.
