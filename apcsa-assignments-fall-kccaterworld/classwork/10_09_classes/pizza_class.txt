@@ -1,0 +1,16 @@
+Working with Hudson
+
+Instance Variables:
+- Slice int (4, 6, 8)
+- Toppings status array of pairs ({thing, put/no put boolean})
+- Diameter int (10, 12, 14, 16, 18 inch)
+- Crust format (stuffed, regular, cheese, crustless)
+- Crust type (gluten free, whole grain, )
+- Status type (Raw, frozen, cooked)
+
+Methods:
+- Getters/Setters for all the data above
+- inventory method - add/remove slices
+- cook method - change status type
+- change toppings - add/remove
+- stuff/remove crust - add/remove

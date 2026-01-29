@@ -1,0 +1,5 @@
+## What do you notice about the mySum value?
+It ended up as 0.30000000000000004 instead of 0.3
+
+## What is the value of checkResult, and why do we get that result?
+checkResult is false, because since mySum returns 0.30000000000000004, and tmp is 0.3, they aren't the same value

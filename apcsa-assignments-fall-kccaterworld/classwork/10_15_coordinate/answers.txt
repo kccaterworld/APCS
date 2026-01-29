@@ -1,0 +1,7 @@
+1: Private: X, Y coords (array? just two vals?), static counter, static number still onscreen
+
+2: Make an unplaced point, make a point with both coords
+
+3: Change (x, y, both), get (x, y, both), get distance from another point, slope of line to other point, delete point
+
+4: Dont make setters
