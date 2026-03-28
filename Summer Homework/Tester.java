@@ -18,7 +18,7 @@ public class Tester {
       //use your isPrime function.
       int[] primesList = new int[n + 1];
       int count = 0;
-      for(int i = 0; i <= 1000000; i++) {
+      for(int i = 1; i <= 1000000; i++) {
         if(isPrime(i) && count <= n) {
             primesList[count] = i;
             count++;
